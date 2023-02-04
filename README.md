@@ -1,7 +1,8 @@
-![MasterHead](https://marketplace.canva.com/EAENvp21inc/1/0/1600w/canva-simple-work-linkedin-banner-qt_TMRJF4m0.jpg)
+[![MasterHead](https://marketplace.canva.com/EAENvp21inc/1/0/1600w/canva-simple-work-linkedin-banner-qt_TMRJF4m0.jpg)]
 <h1 align="center">Hi 👋, I'm Mohammed Al-Maghlouth</h1>
 <h3 align="center">A passionate developer from Al Khobar</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedalmaghlouth&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedalmaghlouth" /> </p>
 
@@ -38,3 +39,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammedalmaghlouth&show_icons=true&locale=en" alt="mohammedalmaghlouth" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedalmaghlouth&" alt="mohammedalmaghlouth" /></p>
+
