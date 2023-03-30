@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Keifk-App](https://github.com/mohammedAlmaghlouth/keifk)
 
-- 🌱 I’m currently learning **Flutter Firebase & Web Frontend**
+- 🌱 I’m currently learning **Web development**
 
 - 👯 I’m looking to collaborate on **Any creative project**
 
@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mo_mag0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mo_mag0" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/mohammed-almaghlouth-629ab91a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-almaghlouth-629ab91a3" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18798284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18798284" height="30" width="40" /></a>
 </p>
