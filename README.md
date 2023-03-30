@@ -3,9 +3,6 @@
 <h3 align="center">Self-learner software engineer. Cares about acquiring and mastering new approaches, technologies, and tools whenever they available to be versed on. Skilled in solving programming problems and interested in App Development, Software development, Cyber security and Artificial intelligent.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedalmaghlouth&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedalmaghlouth" /> </p>
-
-<p align="left"> <a href="https://twitter.com/mo_mag0" target="blank"><img src="https://img.shields.io/twitter/follow/mo_mag0?logo=twitter&style=for-the-badge" alt="mo_mag0" /></a> </p>
 
 - 🔭 I’m currently working on [Keifk-App](https://github.com/mohammedAlmaghlouth/keifk)
 
