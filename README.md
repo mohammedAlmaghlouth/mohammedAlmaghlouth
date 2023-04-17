@@ -1,12 +1,12 @@
 ![MasterHead](https://marketplace.canva.com/EAENvp21inc/1/0/1600w/canva-simple-work-linkedin-banner-qt_TMRJF4m0.jpg)
 <h1 align="center">Hi 👋, I'm Mohammed Al-Maghlouth</h1>
-<h3 align="center">Self-learner software engineer. Cares about acquiring and mastering new approaches, technologies, and tools whenever they available to be versed on. Skilled in solving programming problems and interested in App Development, Software development, Cyber security and Artificial intelligent.</h3>
+<h3 align="center">Self-learner software engineer. Cares about acquiring and mastering new approaches, technologies, and tools whenever they available to be versed on. Skilled in solving programming problems and interested in App and Web Development.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 
-- 🔭 I’m currently working on [Keifk-App](https://github.com/mohammedAlmaghlouth/keifk)
+- 🔭 I’m currently working on [Soccer App](https://github.com/mohammedAlmaghlouth/soccer)
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **Flutter & Firebase**
 
 - 👯 I’m looking to collaborate on **Any creative project**
 
