@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on [KFUPM Events app](https://github.com/mohammedAlmaghlouth/kfupm_events)
 
-- 🌱 I’m currently learning **Flutter & Firebase**
+- 🌱 I’m currently learning **Flutter & Angular**
 
 - 👯 I’m looking to collaborate on **Any creative project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohammedAlmaghlouth?tab=repositories](https://github.com/mohammedAlmaghlouth?tab=repositories)
 
-- 💬 Ask me about **Flutter / Figma / OOP**
+- 💬 Ask me about **Angular / Flutter / Figma / OOP**
 
 - 📫 How to reach me **mo.maghlouth@gmail.com**
 
