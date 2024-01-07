@@ -1,18 +1,14 @@
 ![MasterHead](https://marketplace.canva.com/EAENvp21inc/1/0/1600w/canva-simple-work-linkedin-banner-qt_TMRJF4m0.jpg)
 <h1 align="center">Hi 👋, I'm Mohammed Al-Maghlouth</h1>
-<h3 align="center">Self-learner software engineer. Cares about acquiring and mastering new approaches, technologies, and tools whenever they available to be versed on. Skilled in solving programming problems and interested in App and Web Development.</h3>
+<h3 align="center">Self-learner software engineer. Cares about acquiring and mastering new approaches, technologies, and tools whenever they available to be versed on. Skilled in solving programming problems and interested in Application Development And Machine Learning.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 
-- 🔭 I’m currently working on [KFUPM Events app](https://github.com/mohammedAlmaghlouth/kfupm_events)
+- 🔭 I’m currently working on [AI Assistant Application](https://github.com/mohammedAlmaghlouth/kfupm_events)
 
-- 🌱 I’m currently learning **Flutter & Angular**
+- 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
 - 👯 I’m looking to collaborate on **Any creative project**
-
-- 👨‍💻 All of my projects are available at [https://github.com/mohammedAlmaghlouth?tab=repositories](https://github.com/mohammedAlmaghlouth?tab=repositories)
-
-- 💬 Ask me about **Angular / Flutter / Figma / OOP**
 
 - 📫 How to reach me **mo.maghlouth@gmail.com**
 
