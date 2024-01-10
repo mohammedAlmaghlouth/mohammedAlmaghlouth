@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mo.maghlouth@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mohammed-almaghlouth-629ab91a3/](https://www.linkedin.com/in/mohammed-almaghlouth-629ab91a3/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/mohammed-almaghlouth/](https://www.linkedin.com/in/mohammed-almaghlouth/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
