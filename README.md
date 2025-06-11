@@ -29,7 +29,7 @@ Some of my recent work:
 - **[KFUPlanner](https://github.com/mohammedAlmaghlouth/KFUPlanner)**: Web platform for academic scheduling (Angular, TypeScript).
 - **[AI Tic Tac Toe](https://github.com/mohammedAlmaghlouth/tiktaktoe)**: Intelligent game using minimax algorithm (Python).
 
-More projects on my [GitHub](https://github.com/mohammedAlmaghlouth).
+More projects on my [Repositories](https://github.com/mohammedAlmaghlouth?tab=repositories).
 
 ---
 
