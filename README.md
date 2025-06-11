@@ -24,7 +24,7 @@ I’m a software engineer focused on building mobile apps, web platforms, and AI
 Some of my recent work:
 - **[SOL App](https://apps.apple.com/sa/app/sol-stores/id1549629386)**: Mobile app for F&B procurement, connecting 2,500+ items and 100+ suppliers (Flutter, Firebase).
 - **[WikiProduct](https://github.com/WikiProductOfficial/WikiProductOfficial)**: AI-powered platform for personalized shopping recommendations (Python, ML).
-- **[Parking 74](https://github.com/FerasAlShateeb/Parking74)**: Unity 3D horror game with AI-driven gameplay (Unity, Blender).
+- **[Parking 74](https://github.com/mohammedAlmaghlouth/Parking74)**: Unity 3D horror game with AI-driven gameplay (Unity, Blender).
 - **[Events Manager](https://github.com/mohammedAlmaghlouth/kfupm_events)**: Flutter app for campus event management (Firebase).
 - **[KFUPlanner](https://github.com/mohammedAlmaghlouth/KFUPlanner)**: Web platform for academic scheduling (Angular, TypeScript).
 - **[AI Tic Tac Toe](https://github.com/mohammedAlmaghlouth/tiktaktoe)**: Intelligent game using minimax algorithm (Python).
